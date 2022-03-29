@@ -1,2 +1,2 @@
-# Journey-Mapper
+# Intelli Meals
 Student Project 1
